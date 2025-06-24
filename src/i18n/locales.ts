@@ -18,21 +18,9 @@ export const LOCALES_SETTING: LocaleSetting = {
 		lang: "en-US",
 		flag: "openmoji:flag-united-states",
 	},
-	es: {
-		label: "Español",
-		flag: "openmoji:flag-spain",
-	},
-	ja: {
-		label: "日本語",
-		flag: "openmoji:flag-japan",
-	},
-	"zh-cn": {
-		label: "简体中文",
-		flag: "openmoji:flag-china",
-	},
-	ar: {
-		label: "العربية",
-		dir: "rtl",
-		flag: "openmoji:flag-united-arab-emirates",
+	fr: {
+		label: "Français",
+		dir: "fr-FR",
+		flag: "openmoji:flag-france",
 	},
 };
